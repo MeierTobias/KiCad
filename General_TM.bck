@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_MKR_WAN_1310
+D Arduino MKR WAN 1310 LoRa
+F https://store.arduino.cc/products/arduino-mkr-wan-1310
+$ENDCMP
+#
+$CMP CM1213-08MR
+D ESDProtection Arrays
+F https://www.mouser.ch/datasheet/2/308/CM1213-D-1773640.pdf
+$ENDCMP
+#
+$CMP DT1446-04TS-7
+F https://www.mouser.ch/datasheet/2/115/DT1446-04TS-364495.pdf
+$ENDCMP
+#
+#End Doc Library
